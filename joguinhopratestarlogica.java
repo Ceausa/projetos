@@ -3,7 +3,7 @@ package projeto01;
 import java.util.Scanner;
 
 public class Main{
-	public int[] numeros = {10,20,30};
+
 	
 	public static void main(String[]args) {
 		Scanner scanner = new Scanner(System.in);
